@@ -24,6 +24,8 @@ Aqui a classe que implementa o DAO, já usando uma pá de coisa que o Java já d
 
 Na proxima imagem tem um print da main rodando alguns desses métodos que eu criei. 
 
+O que eu faço nó códiga da main é : leiam o código.
+
 ![Texto Alternativo](img4.png)
 
 Não sei qual será a solução de vocês no PBL em termos de persistência, mas isso é uma base bem curtinha usando HashMap lá no lado da DAO.
